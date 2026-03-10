@@ -1,0 +1,3 @@
+#!/bin/bash
+  
+echo "$@" | xargs php /usr/local/bin/mcacheviewer/mcacheview.php
